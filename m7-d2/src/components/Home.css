@@ -1,0 +1,23 @@
+a{
+    color:black
+}
+a:hover{
+    text-decoration: none;
+}
+li{
+    margin-top:5px;
+    margin-bottom: 5px;
+    height: 30px;
+}
+
+  .example{
+    background-color: white;
+    animation-name: example;
+    animation-duration: 4s;
+   
+  }
+  /* @keyframes example {
+    from {background-color: black;}
+    to {background-color: #00d9ff;}
+    
+  } */
